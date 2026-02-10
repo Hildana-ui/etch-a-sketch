@@ -10,7 +10,7 @@ const createGrid = (gridSize) => {
 
 
     const total = gridSize * gridSize;
-    const squareSize = 320 / gridSize;
+    const squareSize = 500 / gridSize;
 
 
     for (let i = 0; i < total; i++) {

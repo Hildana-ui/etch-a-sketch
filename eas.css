@@ -1,31 +1,34 @@
 body{
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
+    align-items: center;
     flex-direction: column;
+}
+h1 {
+    color: rgb(225, 122, 137);
 }
 
 #container {
     margin: 10px;
     display: flex;
     flex-wrap: wrap;
-    width: 320px;
-    height: 320px;
+    width: 500px;
+    height: 500px;
 }
 
 .square {
     box-sizing: border-box;
-    border: 1px solid #ddd;
+    border: 1px solid rgb(225, 122, 137);
 }
 
 #button {
     padding: 5px;
     text-align: center;
     margin: 20px;
-    border: 1px solid pink;
+    border: 1px solid rgb(225, 122, 137);
     border-radius: 8px;
     background: pink;
-    color: white;
+    color: rgb(225, 122, 137);
     width: 90px;
     height: 40px;
-    align-self: flex-end;
 }
