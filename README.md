@@ -12,7 +12,8 @@ Hover-based drawing
 Responsive squares using Flexbox
 
 Easy to reset / rebuild the grid
-🔗 **Live Demo:** [Click here to try it!](https://your-live-page-link.com)
+
+🔗 **Live Demo:** [Click here to try it!]( https://hildana-ui.github.io/etch-a-sketch/)
 
 ## Features
 ____________________________________________________________________________
@@ -27,11 +28,11 @@ Responsive Layout: Uses Flexbox to ensure grid squares align neatly.
 
 Installation / Usage
 
-# 1. Clone the repo
+## 1. Clone the repo
 ```bash
 git clone <repo-url>
 ```
-# 2. Open index.html in your browser
+## 2. Open index.html in your browser
 
 
 ## Technologies
