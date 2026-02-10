@@ -1,4 +1,4 @@
-#Mini Etch-a-Sketch
+# Mini Etch-a-Sketch
 
 This is a small browser-based Etch-a-Sketch-style project built with HTML, CSS, and JavaScript.
 Users can draw on a dynamically generated grid by hovering over squares. The grid size can be customized, allowing for different drawing resolutions.
@@ -12,8 +12,9 @@ Hover-based drawing
 Responsive squares using Flexbox
 
 Easy to reset / rebuild the grid
+🔗 **Live Demo:** [Click here to try it!](https://your-live-page-link.com)
 
-##Features
+## Features
 ____________________________________________________________________________
 Dynamic Grid Creation: User can choose the number of squares per side.
 
@@ -29,13 +30,9 @@ Installation / Usage
 # 1. Clone the repo
 ```bash
 git clone <repo-url>
-
+```
 # 2. Open index.html in your browser
 
-
-Or if no repo:
-
-Click the live page link 
 
 ## Technologies
 ____________________________________________________________________
