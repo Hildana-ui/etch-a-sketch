@@ -16,7 +16,7 @@ Easy to reset / rebuild the grid
 🔗 **Live Demo:** [Click here to try it!]( https://hildana-ui.github.io/etch-a-sketch/)
 
 ## Features
-____________________________________________________________________________
+
 Dynamic Grid Creation: User can choose the number of squares per side.
 
 Interactive Drawing: Hover over squares to "color" them.
@@ -28,15 +28,15 @@ Responsive Layout: Uses Flexbox to ensure grid squares align neatly.
 
 Installation / Usage
 
-## 1. Clone the repo
+ **1. Clone the repo**
 ```bash
 git clone <repo-url>
 ```
-## 2. Open index.html in your browser
+ **2. Open index.html in your browser**
 
 
 ## Technologies
-____________________________________________________________________
+
 - HTML
 - CSS (Flexbox)
 - JavaScript (DOM manipulation, event listeners)
